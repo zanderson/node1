@@ -1,0 +1,21 @@
+{
+  "name": "zoe",
+  "version": "1.0.0",
+  "description": "zoes server",
+  "main": "npm install express",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install body-parser"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "body-parser",
+    "--save"
+  ],
+  "author": "zoe",
+  "license": "ISC"
+}
